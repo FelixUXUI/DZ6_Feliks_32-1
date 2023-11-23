@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Stardos Stencil';
+    src: url('StardosStencil-Bold.eot');
+    src: url('StardosStencil-Bold.eot?#iefix') format('embedded-opentype'),
+        url('StardosStencil-Bold.woff2') format('woff2'),
+        url('StardosStencil-Bold.woff') format('woff'),
+        url('StardosStencil-Bold.ttf') format('truetype'),
+        url('StardosStencil-Bold.svg#StardosStencil-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
